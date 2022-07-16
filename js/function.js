@@ -291,7 +291,7 @@ $(function(){
         oldIdx = nowIdx;
 
 		if(nowIdx<1){
-			nowIdx=$indicator.length-1
+			nowIdx=$indicator.length-0
 		}else{
 			nowIdx--;
 		}
